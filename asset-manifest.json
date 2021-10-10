@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/chhathpuja/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/chhathpuja/static/js/main.b29df7ca.chunk.js",
+    "main.js.map": "/chhathpuja/static/js/main.b29df7ca.chunk.js.map",
+    "runtime-main.js": "/chhathpuja/static/js/runtime-main.b97b4a3e.js",
+    "runtime-main.js.map": "/chhathpuja/static/js/runtime-main.b97b4a3e.js.map",
+    "static/js/2.2b829590.chunk.js": "/chhathpuja/static/js/2.2b829590.chunk.js",
+    "static/js/2.2b829590.chunk.js.map": "/chhathpuja/static/js/2.2b829590.chunk.js.map",
+    "index.html": "/chhathpuja/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/chhathpuja/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2b829590.chunk.js.LICENSE.txt": "/chhathpuja/static/js/2.2b829590.chunk.js.LICENSE.txt",
+    "static/media/Argh.1cff6491.jpg": "/chhathpuja/static/media/Argh.1cff6491.jpg",
+    "static/media/Atlake.6cc84bcf.jpg": "/chhathpuja/static/media/Atlake.6cc84bcf.jpg",
+    "static/media/Bihar.06eacedc.jpg": "/chhathpuja/static/media/Bihar.06eacedc.jpg",
+    "static/media/Chhath.0c4bccea.jpg": "/chhathpuja/static/media/Chhath.0c4bccea.jpg",
+    "static/media/DPChhath.4ea22e0f.jpg": "/chhathpuja/static/media/DPChhath.4ea22e0f.jpg",
+    "static/media/Daura.c2d55316.jpg": "/chhathpuja/static/media/Daura.c2d55316.jpg",
+    "static/media/DevoteeatGhat.1c3e06e1.jpg": "/chhathpuja/static/media/DevoteeatGhat.1c3e06e1.jpg",
+    "static/media/Devotees.cc2f3d50.jpg": "/chhathpuja/static/media/Devotees.cc2f3d50.jpg",
+    "static/media/EveningTime.cea4b509.jpg": "/chhathpuja/static/media/EveningTime.cea4b509.jpg",
+    "static/media/Foreginer.520e4db3.jpg": "/chhathpuja/static/media/Foreginer.520e4db3.jpg",
+    "static/media/GreatDevotee.bd67c8ca.jpg": "/chhathpuja/static/media/GreatDevotee.bd67c8ca.jpg",
+    "static/media/Kalsup.9f8d7671.jpg": "/chhathpuja/static/media/Kalsup.9f8d7671.jpg",
+    "static/media/LadiesDuringChhath.7c073a35.jpg": "/chhathpuja/static/media/LadiesDuringChhath.7c073a35.jpg",
+    "static/media/LadyinLake.cef02932.jpg": "/chhathpuja/static/media/LadyinLake.cef02932.jpg",
+    "static/media/MaleDevotees.7978abe7.jpg": "/chhathpuja/static/media/MaleDevotees.7978abe7.jpg",
+    "static/media/Thekua.10517489.jpg": "/chhathpuja/static/media/Thekua.10517489.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b97b4a3e.js",
+    "static/js/2.2b829590.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b29df7ca.chunk.js"
+  ]
+}
