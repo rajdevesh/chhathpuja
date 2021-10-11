@@ -10,7 +10,7 @@ function Barnav()
     </div>
     <nav className="navbar navbar-expand-md bg-dark navbar-dark">
   
-  <NavLink className="navbar-brand" to="/">Chhath Puja</NavLink>
+  <NavLink className="navbar-brand" to="/chhathpuja">Chhath Puja</NavLink>
 
   
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -21,7 +21,7 @@ function Barnav()
   <div className="collapse navbar-collapse" id="collapsibleNavbar">
     <ul className="navbar-nav">
       <li className="nav-item">
-      <NavLink className="nav-link" to="/">Home</NavLink>
+      <NavLink className="nav-link" to="/chhathpuja">Home</NavLink>
       </li>
       <li className="nav-item">
       <NavLink className="nav-link" to="/history">History</NavLink>
