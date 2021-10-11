@@ -17,7 +17,7 @@ function App() {
     <Carousel1/>
     <Headings/>
     <Switch>
-      <Route exact path="/chhathpuja" component={Home}/>
+      <Route exact path="/" component={Home}/>
       <Route exact path="/history" component={History}/>
       <Route exact path="/significance" component={Significance}/>
       <Route exact path="/argh" component={Argh}/>
