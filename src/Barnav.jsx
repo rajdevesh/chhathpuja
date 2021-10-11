@@ -10,7 +10,7 @@ function Barnav()
     </div>
     <nav className="navbar navbar-expand-md bg-dark navbar-dark">
   
-  <NavLink className="navbar-brand" to="/">Chhath Puja</NavLink>
+
 
   
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
